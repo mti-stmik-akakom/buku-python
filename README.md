@@ -6,7 +6,7 @@
 
 ## Tentang Repo Ini
 
-Repo ini berisi kode sumber serta buku **Pemrograman Python** dibuat oleh [Magister Teknologi Informasi STMIK Akakom](http://pascasarjana.akakom.ac.id). Lisensi semua dokumen pada repo ini adalah [Creative Commons Atribution-ShareAlike 4.0 International License - CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Secara umum, penggunaan lisensi ini mempunyai implikasi bahwa pengguna materi:
+Repo ini berisi kode sumber serta buku **Pemrograman Python** yang dibuat oleh [Magister Teknologi Informasi STMIK Akakom](http://pascasarjana.akakom.ac.id). Lisensi semua dokumen pada repo ini adalah [Creative Commons Atribution-ShareAlike 4.0 International License - CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Secara umum, penggunaan lisensi ini mempunyai implikasi bahwa pengguna materi:
 
 1.  Harus memberikan atribusi ke penulis dan sponsor untuk penulisan materi ini (Magister Teknologi Tnformasi - STMIK Akakom).
 2.  Boleh menggunakan produk yang ada disini untuk keperluan apapun jika point 1 di atas terpenuhi.
